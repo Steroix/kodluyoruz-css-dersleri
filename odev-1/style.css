@@ -1,0 +1,19 @@
+body{
+        background-color: #B7C4CF;
+        font-family: sans-serif; 
+        color:#EEE3CB;
+}
+nav{
+    color:#EEE3CB;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: #967E76;
+}
+p{
+    color: #967E76;
+}
+.food{
+    align-items: center;
+}
